@@ -1,0 +1,15 @@
+[submodule "keyboard_layout"]
+	path = keyboard_layout
+	url = git@github.com:echuraev/keyboard_layout.git
+[submodule "module/bling"]
+	path = module/bling
+	url = https://github.com/BlingCorp/bling.git
+[submodule "module/rubato"]
+	path = module/rubato
+	url = https://github.com/andOrlando/rubato.git
+[submodule "module/color"]
+	path = module/color
+	url = https://github.com/andOrlando/color.git
+[submodule "module/layout-machi"]
+	path = module/layout-machi
+	url = https://github.com/xinhaoyuan/layout-machi.git
